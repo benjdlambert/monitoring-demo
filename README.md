@@ -1,2 +1,4 @@
-# monitoring-demo
-Monitoring demo with InfluxDB and Grafana
+# Monitoring Stack
+
+### Node -> Telegraf -> InfluxDB -> Grafana
+
